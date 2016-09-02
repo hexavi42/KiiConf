@@ -10,8 +10,8 @@ cd $(dirname $(readlink_ -f $0))/..
 
 CODE_PATH="controller"
 KLL_PATH="kll"
-URL="https://github.com/kiibohd/controller.git"
-KLL_URL="https://github.com/kiibohd/kll.git"
+URL="https://github.com/hexavi42/controller.git"
+KLL_URL="https://github.com/hexavi42/kll.git"
 BRANCH="master"
 ORIG_DIR=$(pwd)
 
